@@ -1,0 +1,1 @@
+function yeniresim(){	document.getElementById('guvenlik').src = 'guvenlik_kodu.php?a=' + Math.round(Math.random()*100000);}
